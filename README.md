@@ -1,2 +1,2 @@
-# veci-a-tak
+# Moje věci z bootcampu
 krásné věci
